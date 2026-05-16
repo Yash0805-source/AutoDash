@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+groq
+python-dotenv
+requests
+langgraph
+langchain-core
+scikit-learn
+zipfile36
+kaleido
+plotly-orca
