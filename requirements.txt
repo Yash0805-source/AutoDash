@@ -10,4 +10,7 @@ langchain-core
 scikit-learn
 zipfile36
 kaleido
+<<<<<<< HEAD
 plotly-orca
+=======
+>>>>>>> 7ee4ec6bd4f36ed5d2d2d5b8d1b7077ae0e260c1
