@@ -1,0 +1,65 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.py
+*_test.py
+debug_*.py
+final_*.py
+
+# Generated files
+*.pbix
+*.pbit
+*.csv
+*.xlsx
+test_*.json
+test_*.csv
+
+# Documentation (keeping main docs)
+!README.md
+!LICENSE
+!IMPROVEMENTS.md
+!ADVANCED_FEATURES.md
+!EXPORT_FEATURES_SUMMARY.md
+!PBIX_EXPORT_SUMMARY.md
+
+# Logs
+*.log
